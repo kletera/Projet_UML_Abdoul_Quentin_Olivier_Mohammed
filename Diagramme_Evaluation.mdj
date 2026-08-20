@@ -24807,7 +24807,7 @@
 										"$ref": "AAAAAAGgGn/pnr+e5Hc="
 									},
 									"lineStyle": 1,
-									"points": "783:1322;871:1325",
+									"points": "783:1321;871:1325",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAGgGn/rVr/3oc0="
@@ -24879,9 +24879,9 @@
 													"font": "Arial;13;1",
 													"left": 877,
 													"top": 1319,
-													"width": 293.33154296875,
+													"width": 354.7578125,
 													"height": 13,
-													"text": "Display an error message delete impossible"
+													"text": "Display an error message move in the archive impossible"
 												},
 												{
 													"_type": "LabelView",
@@ -24914,7 +24914,7 @@
 											"font": "Arial;13;0",
 											"left": 872,
 											"top": 1312,
-											"width": 303.33154296875,
+											"width": 364.7578125,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGgGn/q/L/gxxY="
@@ -24937,7 +24937,7 @@
 									"containerChangeable": true,
 									"left": 872,
 									"top": 1312,
-									"width": 303.33154296875,
+									"width": 364.7578125,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAGgGn/q/L/f2zw="
@@ -25201,7 +25201,7 @@
 													"top": 1479,
 													"width": 405.32958984375,
 													"height": 13,
-													"text": "DIsplay a message the evaluation has been delete"
+													"text": "DIsplay a message the evaluation has been archived"
 												},
 												{
 													"_type": "LabelView",
@@ -25873,7 +25873,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGgGlEQb7NzjcU="
 							},
-							"name": "DIsplay a message the evaluation has been delete",
+							"name": "DIsplay a message the evaluation has been archived",
 							"kind": "sendSignal"
 						},
 						{
@@ -26477,7 +26477,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGgGnTih7uHij0="
 									},
-									"name": "Display an error message delete impossible"
+									"name": "Display an error message move in the archive impossible"
 								},
 								{
 									"_type": "UMLAction",
@@ -31431,8 +31431,8 @@
 												"$ref": "AAAAAAGgGlFiCLN8mKQ="
 											},
 											"font": "Arial;13;0",
-											"left": 1016,
-											"top": 64,
+											"left": 1144,
+											"top": 48,
 											"width": 409,
 											"height": 105,
 											"text": "Step 6 : Alternative scenario\nAt least one required field is blank\n6.1 Display an error message the fields are not correctly filled in\n6.2: Ask the user to correct themselves\nIn the nominal scenario, all fields are filled in correctly."
@@ -34072,9 +34072,9 @@
 														"$ref": "AAAAAAGgGlF56LOMBpc="
 													},
 													"font": "Arial;13;0",
-													"left": 30.55908203125,
+													"left": 32.72998046875,
 													"top": 13,
-													"width": 112.185546875,
+													"width": 123.12890625,
 													"height": 13,
 													"text": "Delete evaluation DS"
 												},
@@ -34087,7 +34087,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
